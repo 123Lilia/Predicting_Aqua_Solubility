@@ -17,10 +17,10 @@ Visualization of results and model comparisons.
 
 ### Tools & Libraries:
 
-Python
-Scikit-learn
-Pandas
-Matplotlib
+Python,
+Scikit-learn,
+Pandas,
+Matplotlib,
 NumPy
 
 ## Usage:
